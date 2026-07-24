@@ -10,7 +10,7 @@ Não tem nenhuma instalação ou servidor. É **um único arquivo `.html`** com 
 
 Pra rodar:
 
-1. Baixe o arquivo `index-v4.html`.
+1. Baixe o arquivo `index.html`.
 2. Clique duas vezes nele (ou arraste pra dentro do navegador).
 3. Pronto — ele abre igual a um site normal.
 
